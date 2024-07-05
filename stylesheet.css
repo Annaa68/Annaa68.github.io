@@ -1,15 +1,8 @@
 
 .Pets{
     text-align: center;
-    color:rgb(39, 1, 1);
+    color:rgb(247, 137, 137);
     font-size:4em;
-}
-.navBar{
-    text-align:none;
-    margin:0px;
-    width:100%;
-    height: 4em;
-    background-color:rgb(211, 218, 251);
 }
 ul {
     margin:0;
@@ -19,18 +12,37 @@ ul {
     table-layout:fixed;
     width:100%
 }
-li[class="a"]{
-    display:table-cell;
-    border:1px rgb(247, 205, 205) solid;
-    padding:5px;
-    text-align:center;
 body {
     background-image:url(https://static.independent.co.uk/s3fs-public/thumbnails/image/2013/01/24/12/v2-cute-cat-picture.jpg);
     opacity: 100%;
     background-size: cover;
 }
+li[class="a"]{
+    display:table-cell;
+    border:1px rgb(245, 164, 164) solid;
+    padding:5px;
+    text-align:center;
+    color:rgb(246, 163, 163);
+    font-size:1.5em;
+}
+h1{
+    color:aliceblue;
+    text-align:center;
+}
+p{
+    color:aliceblue;
+    font-size:1.3em;
+    margin-left:5%;
+    margin-right:5%
+}
 
+li[class="b"]{
+    color:aliceblue;
+    font-size:1.3em;
+    margin-left:5%;
+    margin-right:5%
 
+}
 
 
 
